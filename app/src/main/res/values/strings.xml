@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">五芯教育管家</string>
+    <!-- LoginActivity -->
+    <string name="login">登录</string>
+    <string name="jiesao">五芯教育科技和绵阳师范信息工程学院共同开发</string>
+    <!-- MainActivity -->
+    <string name="_class">班级</string>
+    <string name="pijia">批假</string>
+    <string name="kaoqin">考勤</string>
+    <string name="notify">通知</string>
+    <string name="my">我</string>
+    <string name="forget_password">忘记密码</string>
+    <string name="input_username">请输入工号</string>
+    <string name="input_password">请输入密码</string>
+    <!-- UserinfoFragment -->
+    <string name="change_password">修改密码</string>
+    <string name="about_our">关于我们</string>
+    <string name="exit">退出登录</string>
+    <!-- KaoqinFragment -->
+    <string name="inside_kaoqin">办公</string>
+    <string name="outside_kaoqin">外出</string>
+    <string name="sign_time">签到时间</string>
+    <string name="work_adds">办公地点</string>
+    <string name="sign_adds">签到地点 </string>
+    <string name="sign">签到</string>
+    <string name="no_data">暂无数据</string>
+    <!-- PijiaFragment -->
+    <string name="now_pijia">今日批假</string>
+    <string name="history_pijia">历史批假</string>
+    <string name="undeal">待批</string>
+    <string name="agreed">已同意</string>
+    <string name="disagree">未同意</string>
+    <string name="application_time">申请时间</string>
+    <string name="deal_time">处理时间</string>
+    <!-- UserinfoActivity -->
+    <string name="userinfo">个人信息</string>
+    <string name="name">姓名 </string>
+    <string name="phone">电话 </string>
+    <string name="zhiwei">职位 </string>
+    <string name="class_">班级 </string>
+    <string name="change_header">修改头像</string>
+    <string name="basic_data">基础信息</string>
+    <string name="photo">相机</string>
+    <string name="picture">图库</string>
+    <!-- ChangePasswordActivity -->
+    <string name="old_password">旧密码 </string>
+    <string name="new_password">新密码 </string>
+    <string name="confirm">确认密码 </string>
+    <!-- StudentsListActivity -->
+    <string name="studeng_list">学生列表</string>
+    <string name="delete">删除</string>
+    <!-- TeacherListActivity -->
+    <string name="teacher_list">教师列表</string>
+    <!-- NotifyCommonActivity  -->
+    <string name="notify_common">通知详情</string>
+    <!-- DealActivity -->
+    <string name="applicant">申请人 </string>
+    <string name="leave_time">请假时间 </string>
+    <string name="end_time">结束时间 </string>
+    <string name="agree">同意</string>
+    <string name="refuse">拒绝</string>
+    <!-- ClassSetActivity -->
+    <string name="class_set">班级设置</string>
+    <string name="class_name">班级名称 :</string>
+    <string name="student_num">学生数量 :</string>
+    <string name="class_authentication_code">班级认证码 :</string>
+    <string name="save">保存</string>
+    <string name="delete_class">删除班级</string>
+    <!-- TongJiActivity -->
+    <string name="kecheng">课程 </string>
+    <string name="class_begin_time">上课时间 </string>
+    <string name="class_teacher">上课老师 </string>
+    <string name="tongji_common">统计详情</string>
+    <!-- MapSignDialog -->
+    <string name="signout_time">签退时间 </string>
+    <string name="sign_code">签到码 </string>
+    <string name="signout_code">签退码 </string>
+    <string name="late_time">迟到时间 </string>
+    <string name="stop_signout">停止签退 </string>
+    <string name="signout_adds">签退地点 </string>
+    <string name="signout">签退</string>
+</resources>
